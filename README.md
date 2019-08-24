@@ -1,4 +1,4 @@
-# Operacoes-Matriciais
+# Operacoes Matriciais
 
 Este trabalho consiste em implementar um conjunto de funções que operam sobre matrizes.
 
