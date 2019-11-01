@@ -1,36 +1,36 @@
 # Operacoes Matriciais
 
-Este trabalho consiste em implementar um conjunto de funções que operam sobre matrizes.
+## Este trabalho consiste em implementar um conjunto de funções que operam sobre matrizes.
 
-1. lê - função que faz a leitura de uma matriz n por m.
+- [x] 1. lê - função que faz a leitura de uma matriz n por m.
 
-2. imprime - função que imprime, linha por linha, uma matriz n por m.
+- [x] 2. imprime - função que imprime, linha por linha, uma matriz n por m.
 
-3. soma - função que recebe duas matrizes A e B, de tamanho n por m, e realiza a soma
+- [x] 3. soma - função que recebe duas matrizes A e B, de tamanho n por m, e realiza a soma
 da matriz A com a matriz B, armazenando o resultado na matriz A.
 
-4. subtração
+- [x] 4. subtração
 ao - função que recebe duas matrizes A e B, de tamanho n por m, e realiza a
 subtração da matriz A com a matriz B, armazenando o resultado na matriz A.
 
-5. igualdade - função que recebe duas matrizes A e B, de tamanho n por m, e verifica
+- [x] 5. igualdade - função que recebe duas matrizes A e B, de tamanho n por m, e verifica
 se a matriz A é igual a matriz B, retornando 1, no registrador eax, caso elas sejam
 iguais e zero caso contrário.
 
-6. oposta - função que recebe uma matriz A, de tamanho n por m e retorna uma matriz
+- [x] 6. oposta - função que recebe uma matriz A, de tamanho n por m e retorna uma matriz
 −A oposta à A. Uma matriz −A é oposta à A se a soma das duas resultar em uma
 matriz nula.
 
-7. transposta - função que recebe uma matriz A, de tamanho n por m e retorna uma
+- [x] 7. transposta - função que recebe uma matriz A, de tamanho n por m e retorna uma
 matriz A T transposta à A. Dada uma matriz A de tamanho n por m, chama-se
 transposta de A e indica-se por A T a matriz que se obtém trocando-se ordenadamente
 as linhas pelas colunas de A.
 
-8. mul escalar - função que recebe uma matriz A, de tamanho n por m e um escalar x
+- [x] 8. mul escalar - função que recebe uma matriz A, de tamanho n por m e um escalar x
 e retorna uma matriz formada pela multiplicação de cada elemento de A por x.
 
-9. mul vetor - função que recebe uma matriz A, de tamanho n por m e um vetor v e
+- [x] 9. mul vetor - função que recebe uma matriz A, de tamanho n por m e um vetor v e
 retorna uma matriz formada pela multiplicação de A por x.
 
-10. multiplicação - função que recebe duas matrizes A e B, de tamanho n a por m a e n b
+- [x] 10. multiplicação - função que recebe duas matrizes A e B, de tamanho n a por m a e n b
 por m b e retorna uma matriz formada pela multiplicação de A por B.
